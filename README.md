@@ -44,8 +44,6 @@ Features include:
 - Product performance
 - Sales forecasting
 
-![Strategic Dashboard](dashboard/strategic-dashboard.png)
-
 ---
 
 ### 📊 Tactical Dashboard
@@ -59,8 +57,6 @@ Features include:
 - Customer segmentation
 - Payment methods
 - Product profitability
-
-![Tactical Dashboard](dashboard/tactical-dashboard.png)
 
 ---
 
@@ -76,27 +72,25 @@ Features include:
 - Low stock alerts
 - Customer order trends
 
-![Operational Dashboard](dashboard/operational-dashboard.png)
-
 ---
 
 ## Dashboard Preview
 
 ### Strategic Dashboard
 
-*(Add screenshot here)*
+![Strategic Dashboard](dashboard/strategic-dashboard.png)
 
 ---
 
 ### Tactical Dashboard
 
-*(Add screenshot here)*
+![Tactical Dashboard](dashboard/tactical-dashboard.png)
 
 ---
 
 ### Operational Dashboard
 
-*(Add screenshot here)*
+![Operational Dashboard](dashboard/operational-dashboard.png)
 
 ---
 
